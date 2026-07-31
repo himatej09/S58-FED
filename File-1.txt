@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello guys
+=======
+hello i am himatej
+>>>>>>> sec1
